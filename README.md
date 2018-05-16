@@ -1,1 +1,1 @@
-# Man-Kendall
+# Mann-Kendall
